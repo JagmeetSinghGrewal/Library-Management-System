@@ -1,1 +1,2 @@
 # Library-Management-System
+Library Management System (LMS) – This project was an assignment for the unit KIT214 Secure Web Development and Cloud Computing. We were tasked to make a library management system that allowed users to make an account and borrow books. This assignment tested our skills in building a website with the Model-View-Controller model, SQL, PHP, HTML, CSS and Load Balancer (HAProxy) but it also made us implement security practices to prevent SQL Injections and Cross-Site scripting attacks. 
